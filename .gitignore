@@ -537,3 +537,8 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/packer,vim,linux,macos,windows,visualstudio,visualstudiocode,terraform
+#
+
+**/my_sp.json
+**/.terraform.lock*
+
